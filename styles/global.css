@@ -26,13 +26,3 @@ img {
 button {
   font: inherit;
 }
-header {
- width: 1052px;
- height: 105px;
- margin-top: 92px;
- margin-left: 24px;
- display: grid;
- padding-left: 27px;
- margin-bottom: 50px;
- grid-template-columns: 1fr min-content 1fr;
-}
